@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.iosm.i3dadi",
+    "sha256_cert_fingerprints":
+    ["2A:D4:FF:1F:8E:0B:35:AE:23:E3:9C:E0:54:7B:B6:8B:38:71:C6:97:F1:50:2D:09:62:3B:BB:98:5A:13:6B:85"]
+  }
+}]
